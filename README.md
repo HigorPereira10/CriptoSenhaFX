@@ -1,4 +1,4 @@
-# Gerador de Senhas
+# CriptoSenhaFX
 
 Este é um gerador de senhas seguro baseado em Java com uma interface gráfica (GUI) construída usando JavaFX. Ele permite que os usuários gerem senhas com opções para incluir números, letras maiúsculas e caracteres especiais.
 
